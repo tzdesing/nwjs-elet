@@ -1,0 +1,2 @@
+start nw.exe paat
+   
